@@ -1,1 +1,2 @@
 # Customer-Behavior-Analysis-using-Python-SQL-Power-BI
+This project analyzes customer purchasing behavior using Python, SQL, and Power BI. Python was used for data cleaning and feature engineering, SQL was used to store and analyze the data using advanced queries, and Power BI was used to build an interactive dashboard to visualize key insights such as top products, discount impact, customer segments, and category-wise trends, enabling data-driven business decisions.
